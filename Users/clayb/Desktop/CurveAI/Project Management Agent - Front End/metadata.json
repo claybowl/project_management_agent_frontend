@@ -1,0 +1,5 @@
+{
+  "name": "Curve AI Conversational Interface",
+  "description": "A minimalistic, distraction-free web application for smooth, conversational interactions with the Curve AI Assistant. It allows users to manage projects, get information, and interact with integrated tools through a natural chat interface.",
+  "requestFramePermissions": []
+}

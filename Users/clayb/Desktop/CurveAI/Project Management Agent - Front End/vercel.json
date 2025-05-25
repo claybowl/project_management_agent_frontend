@@ -1,0 +1,13 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "env": {
+    "VITE_ANTHROPIC_API_KEY": "@anthropic_api_key",
+    "VITE_N8N_SSE_URL": "@n8n_sse_url",
+    "VITE_N8N_AUTH_TOKEN": "@n8n_auth_token",
+    "VITE_GEMINI_API_KEY": "@gemini_api_key",
+    "VITE_USE_MCP": "true",
+    "VITE_USE_GEMINI": "true"
+  }
+} 
